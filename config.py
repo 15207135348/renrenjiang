@@ -11,7 +11,9 @@ def is_window():
     else:
         return False
 
+# 根据自己的请求修改
 user_id = "14134251"
+# 根据自己的请求修改
 authorization = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9" \
                 ".eyJ1c2VyX2lkIjoxNDEzNDI1MSwiZXhwIjoxNTg3NDUzNjUxLCJpYXQiOjE1ODYyNDQwNTF9" \
                 ".J8k70gSEmS9rcqaXIYmUtpQz66yjWTiwCoNmnbCxawY "
